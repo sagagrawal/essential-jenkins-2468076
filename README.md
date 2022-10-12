@@ -1,6 +1,7 @@
 # Jenkins Essential Training
-[![Build Status](http://3.111.146.18/buildStatus/icon?job=JenkinsFile-pipeline-Chapter)](http://3.111.146.18/job/JenkinsFile-pipeline-Chapter/)
-\n
+[![Build Status](http://3.111.146.18/buildStatus/icon?job=JenkinsFile-pipeline-Chapter)](http://3.111.146.18/job/JenkinsFile-pipeline-Chapter/) 
+
+
 This is the repository for the LinkedIn Learning course Jenkins Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Jenkins Essential Training][lil-thumbnail-url] 
