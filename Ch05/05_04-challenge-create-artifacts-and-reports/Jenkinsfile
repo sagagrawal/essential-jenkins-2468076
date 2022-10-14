@@ -43,7 +43,7 @@ pipeline {
     post {
         always {
             echo "Collecting jUnit test results..."
-            // Add jUnit report collection here...
+            publishCoverage adapters: [cobertura('\'**/TEST-com.learningjenkins.AppTest.xml\'')], sourceFileResolver: sourceFiles('NEVER_STORE')
 
             echo "Archiving the JAR file..."
             // Add artifact archiving here...
